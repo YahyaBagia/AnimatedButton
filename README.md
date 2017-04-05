@@ -1,5 +1,5 @@
 # AnimatedButton
-UIButton subclass which performs animation on selection (click). It is an Objective-C port of [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation)
+UIButton subclass which performs animation on selection (click). It is an Objective-C port of [ButtonSelectionAnimation](https://github.com/tungfam/ButtonSelectionAnimation).
 
 ### Description
 There are 4 different custom subclusses of UIButton. Hope it will be useful for you.
